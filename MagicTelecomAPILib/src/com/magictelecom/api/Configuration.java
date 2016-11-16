@@ -7,7 +7,7 @@ package com.magictelecom.api;
 
 public class Configuration {
     //The base Uri for API calls
-    public static String baseUri = "http://bundles.magictelecom.dev/app_dev.php";
+    public static String baseUri = "https://api.magictelecom.com";
 
     //API Token
     //TODO: Replace the xAuthToken with an appropriate value
